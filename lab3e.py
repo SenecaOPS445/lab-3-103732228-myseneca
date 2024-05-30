@@ -25,7 +25,7 @@ def give_first_and_last_item():
 def give_second_and_third_item():
     # Does not accept any arguments
     # Returns a list that includes the second and third items in the global object my_list
-    return my_list[1:3]
+    return [my_list[1], my_list[2]]
 
 if __name__ == '__main__':   # This section also referred to as a "main block"
     print(give_list())

@@ -96,7 +96,7 @@ test_e_function_remove_items_from_list (__main__.lab3f.test_e_function_remove_it
 [Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
 
 ----------------------------------------------------------------------
-Ran 48 tests in 0.135s
+Ran 48 tests in 0.142s
 
 OK
 OPS445 Lab Report - System Information for running ./CheckLab3.py
@@ -107,9 +107,5 @@ OPS445 Lab Report - System Information for running ./CheckLab3.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/micairamateo/ops445/lab3
-    Start at: Thu May 30 13:07:23 2024
+    Start at: Thu May 30 13:18:44 2024
 =================================================================
-Good Morning Terry
-my number is  15
-my number is 15
-my number is 15
